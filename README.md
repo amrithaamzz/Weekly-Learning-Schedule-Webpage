@@ -14,6 +14,8 @@ It is built using basic **HTML5** elements and is ideal for beginners practicing
 
 ---
 
+[live]( https://amrithaamzz.github.io/Weekly-Learning-Schedule-Webpage/)
+
 ![image](./image.png)
 
 ## 🛠 Technologies Used
